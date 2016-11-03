@@ -19,7 +19,7 @@ public class Nodo {
         visitado=false;
     }
     
-    public boolean esVisitado(){
+    public boolean getVisitado(){
        return visitado;
     }
     public void setVisiatdo(boolean b){
